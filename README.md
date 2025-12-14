@@ -4,7 +4,7 @@ Its a cute doggy website:)
 
 ## Live Environments
 
-- **Production:** https:/golden-retriever-website-xi.vercel.app
+- **Production:** https://golden-retriever-website-xi.vercel.app
 - **Staging:** https://golden-retriever-website-git-staging-frosos-projects-a3d3ac46.vercel.app
 
 ## Deployment
